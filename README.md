@@ -7,4 +7,4 @@ A simple file containing links to things about programming that I find useful an
 Data oriented design.
 ---------------------
 
-    [Video] [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+&nbsp;&nbsp;&nbsp;&nbsp; [Video] [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
