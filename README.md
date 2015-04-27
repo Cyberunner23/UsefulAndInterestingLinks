@@ -33,10 +33,12 @@ Libraries
 | C/C++         | Cross-Platform | Script Integration   | [Lua]               (http://www.lua.org/)                      |
 | Multi-Lang    | Cross-Platform | Compression          | [LZ4]               (https://code.google.com/p/lz4/)           |
 | Multi-Lang    | Cross-Platform | Crypto               | [libsodium]         (http://doc.libsodium.org/)                |
+| Multi-Lang    | Cross-Platform | Crypto               | [openSSL]           (https://www.openssl.org/)                 |
 | Multi-Lang    | Cross-Platform | GUI                  | [GTK+]              (http://www.gtk.org/)                      |  
 | Multi-Lang    | Cross-Platform | GUI                  | [QT]                (http://www.qt.io/)                        |
-| Multi-Lang    | Criss-Platform | Multi-Media          | [GLFW]              (http://www.glfw.org/)                     |
+| Multi-Lang    | Cross-Platform | Multi-Media          | [GLFW]              (http://www.glfw.org/)                     |
 | Multi-Lang    | Cross-Platform | Multi-Media          | [libSDL]            (https://www.libsdl.org/)                  |
+| Multi-Lang    | Cross-Platform | Multi-Media          | [SFML]              (http://www.sfml-dev.org/)                 |
 
 Script Languages
 ----------------
