@@ -8,10 +8,10 @@ Libraries
 ---------
 
 | Language      |Platform        | Type                 | Library                                                                 |
-|---------------|:--------------:|:--------------------:|-------------------------------------------------------------------------|
+|---------------|:--------------:|:--------------------:|:-----------------------------------------------------------------------:|
 | C++           | Cross-Platform | Library Set          | [Boost]     (http://www.boost.org/)                                     |
 | Multi-Lang    | Cross-Platform | Crypto               | [libsodium] (http://doc.libsodium.org/)                                 |
-| Multi-Lang    | Cross-Platform | GUI                  | [QT]        (http://www.qt.io/)
+| Multi-Lang    | Cross-Platform | GUI                  | [QT]        (http://www.qt.io/)                                         |
 | Multi-Lang    | Cross-Platform | Tools                | [libSDL]    (https://www.libsdl.org/)                                   |
 
 Data oriented design.
