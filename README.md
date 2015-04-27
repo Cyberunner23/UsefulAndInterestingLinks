@@ -7,11 +7,12 @@ A simple file containing links to things about programming that I find useful an
 Libraries
 ---------
 
-| Language      | Type                 | Library                                 |
-|---------------|:--------------------:|-----------------------------------------|
-| C++           | Library Set          | [Boost]     (http://www.boost.org/)     |
-| Multi-Lang    | Multi-Platform Tools | [libSDL]    (https://www.libsdl.org/)   |
-| Multi-Lang    | Crypto               | [libsodium] (http://doc.libsodium.org/) |
+| Language      |Platform        | Type                 | Library                                                                 |
+|---------------|:--------------:|:--------------------:|-------------------------------------------------------------------------|
+| C++           | Cross-Platform | Library Set          | [Boost]     (http://www.boost.org/)                                     |
+| Multi-Lang    | Cross-Platform | Crypto               | [libsodium] (http://doc.libsodium.org/)                                 |
+| Multi-Lang    | Cross-Platform | GUI                  | [QT]        (http://www.qt.io/)
+| Multi-Lang    | Cross-Platform | Tools                | [libSDL]    (https://www.libsdl.org/)                                   |
 
 Data oriented design.
 ---------------------
