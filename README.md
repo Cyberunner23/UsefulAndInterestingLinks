@@ -24,12 +24,18 @@ Libraries
 
 | Language      |Platform        | Type                 | Library                                                        |
 |---------------|:--------------:|:--------------------:|:--------------------------------------------------------------:|
+| C++           | Cross-Platform | Audio Synthesis      | [Synthesis Toolkit] (https://ccrma.stanford.edu/software/stk/) |
+| C++           | Cross-Platform | Crypto               | [Crypto++]          (http://www.cryptopp.com/)                 |
+| C++           | Cross-Platform | Library Set          | [Boost]             (http://www.boost.org/)                    |
+| C/C++         | Cross-Platform | Compression          | [Zlib]              (http://www.zlib.net/)                     |
+| C/C++         | Cross-Platform | OpenGL Tool          | [GLEW]              (http://glew.sourceforge.net/)             |
 | C/C++         | Cross-Platform | Script Integration   | [AngelScript]       (http://www.angelcode.com/angelscript/)    |
 | C/C++         | Cross-Platform | Script Integration   | [Lua]               (http://www.lua.org/)                      |
-| C++           | Cross-Platform | Audio Synthesis      | [Synthesis Toolkit] (https://ccrma.stanford.edu/software/stk/) |
-| C++           | Cross-Platform | Library Set          | [Boost]             (http://www.boost.org/)                    |
+| Multi-Lang    | Cross-Platform | Compression          | [LZ4]               (https://code.google.com/p/lz4/)           |
 | Multi-Lang    | Cross-Platform | Crypto               | [libsodium]         (http://doc.libsodium.org/)                |
+| Multi-Lang    | Cross-Platform | GUI                  | [GTK+]              (http://www.gtk.org/)                      |  
 | Multi-Lang    | Cross-Platform | GUI                  | [QT]                (http://www.qt.io/)                        |
+| Multi-Lang    | Criss-Platform | Multi-Media          | [GLFW]              (http://www.glfw.org/)                     |
 | Multi-Lang    | Cross-Platform | Multi-Media          | [libSDL]            (https://www.libsdl.org/)                  |
 
 Script Languages
