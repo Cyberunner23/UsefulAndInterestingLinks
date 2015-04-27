@@ -7,6 +7,10 @@ A simple file containing links to things about programming that I find useful an
 Libraries
 ---------
 
+| Language | Type                 | Library                               |
+|----------|:--------------------:|--------------------------------------:|
+| Multi    | Multi-Platform Tools | [libSDL]    (https://www.libsdl.org/)
+
 -   [Multi] [Multi-Platform Tools] [libSDL]    (https://www.libsdl.org/)
 -   [Multi] [Crypto]               [libsodium] (http://doc.libsodium.org/)
 -   [C++]   [Boost]                [Boost]     (http://www.boost.org/)
