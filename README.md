@@ -8,7 +8,7 @@ Libraries
 ---------
 
 | Language      | Type                 | Library                                 |
-|---------------|:--------------------:|----------------------------------------:|
+|---------------|:--------------------:|-----------------------------------------|
 | C++           | Library Set          | [Boost]     (http://www.boost.org/)     |
 | Multi-Lang    | Multi-Platform Tools | [libSDL]    (https://www.libsdl.org/)   |
 | Multi-Lang    | Crypto               | [libsodium] (http://doc.libsodium.org/) |
