@@ -4,7 +4,7 @@ Useful and interesting links.
 A simple file containing links to things about programming that I find useful and/or interesting.
 
 
-Data oriented design.
+Data Oriented Design
 ---------------------
 
 | Type             | Link                                                                                                                                                       |
@@ -22,23 +22,29 @@ Data oriented design.
 Libraries
 ---------
 
-| Language      |Platform        | Type                 | Library                                                        |
-|---------------|:--------------:|:--------------------:|:--------------------------------------------------------------:|
-| C++           | Cross-Platform | Audio Synthesis      | [Synthesis Toolkit] (https://ccrma.stanford.edu/software/stk/) |
-| C++           | Cross-Platform | Crypto               | [Crypto++]          (http://www.cryptopp.com/)                 |
-| C++           | Cross-Platform | Library Set          | [Boost]             (http://www.boost.org/)                    |
-| C/C++         | Cross-Platform | Compression          | [Zlib]              (http://www.zlib.net/)                     |
-| C/C++         | Cross-Platform | OpenGL Tool          | [GLEW]              (http://glew.sourceforge.net/)             |
-| C/C++         | Cross-Platform | Script Integration   | [AngelScript]       (http://www.angelcode.com/angelscript/)    |
-| C/C++         | Cross-Platform | Script Integration   | [Lua]               (http://www.lua.org/)                      |
-| Multi-Lang    | Cross-Platform | Compression          | [LZ4]               (https://code.google.com/p/lz4/)           |
-| Multi-Lang    | Cross-Platform | Crypto               | [libsodium]         (http://doc.libsodium.org/)                |
-| Multi-Lang    | Cross-Platform | Crypto               | [openSSL]           (https://www.openssl.org/)                 |
-| Multi-Lang    | Cross-Platform | GUI                  | [GTK+]              (http://www.gtk.org/)                      |  
-| Multi-Lang    | Cross-Platform | GUI                  | [QT]                (http://www.qt.io/)                        |
-| Multi-Lang    | Cross-Platform | Multi-Media          | [GLFW]              (http://www.glfw.org/)                     |
-| Multi-Lang    | Cross-Platform | Multi-Media          | [libSDL]            (https://www.libsdl.org/)                  |
-| Multi-Lang    | Cross-Platform | Multi-Media          | [SFML]              (http://www.sfml-dev.org/)                 |
+| Language      |Platform        | Type                     | Library                                                                |
+|---------------|:--------------:|:------------------------:|:----------------------------------------------------------------------:|
+| C++           | Cross-Platform | Audio Synthesis          | [Synthesis Toolkit] (https://ccrma.stanford.edu/software/stk/)         |
+| C++           | Cross-Platform | Crypto                   | [Crypto++]          (http://www.cryptopp.com/)                         |
+| C++           | Cross-Platform | Library Set              | [Boost]             (http://www.boost.org/)                            |
+| C++           | Cross-Platform | SDK                      | [Steamworks SDK]    (https://partner.steamgames.com/)
+| C/C++         | Cross-Platform | XML Parser and Validator | [Xerces-C++]        (http://xerces.apache.org/xerces-c/)               |
+| C/C++         | Cross-Platform | Compression              | [Zlib]              (http://www.zlib.net/)                             |
+| C/C++         | Cross-Platform | OpenGL Tool              | [GLEW]              (http://glew.sourceforge.net/)                     |
+| C/C++         | Cross-Platform | Script Integration       | [AngelScript]       (http://www.angelcode.com/angelscript/)            |
+| C/C++         | Cross-Platform | Script Integration       | [Lua]               (http://www.lua.org/)                              |
+| Multi-Lang    | Cross-Platform | Compression              | [LZ4]               (https://code.google.com/p/lz4/)                   |
+| Multi-Lang    | Cross-Platform | Crypto                   | [libsodium]         (http://doc.libsodium.org/)                        |
+| Multi-Lang    | Cross-Platform | Crypto                   | [openSSL]           (https://www.openssl.org/)                         |
+| Multi-Lang    | Cross-Platform | GUI                      | [GTK+]              (http://www.gtk.org/)                              |  
+| Multi-Lang    | Cross-Platform | GUI                      | [QT]                (http://www.qt.io/)                                |
+| Multi-Lang    | Cross-Platform | Imaging                  | [OpenCV]            (http://opencv.org/)                               | 
+| Multi-Lang    | Cross-Platform | Multi-Media              | [GLFW]              (http://www.glfw.org/)                             |
+| Multi-Lang    | Cross-Platform | Multi-Media              | [libSDL]            (https://www.libsdl.org/)                          |
+| Multi-Lang    | Cross-Platform | Multi-Media              | [SFML]              (http://www.sfml-dev.org/)                         |
+| Multi-Lang    | Cross-Platform | Version Control          | [libgit2]           (https://libgit2.github.com/)                      |
+| Multi-Lang    | Cross-Platform | XML Parser and Validator | [TinyXML]           (http://www.grinninglizard.com/tinyxml/index.html) |
+
 
 Script Languages
 ----------------
