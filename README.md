@@ -4,16 +4,6 @@ Useful and interesting links.
 A simple file containing links to things about programming that I find useful and/or interesting.
 
 
-Libraries
----------
-
-| Language      |Platform        | Type                 | Library                                                                 |
-|---------------|:--------------:|:--------------------:|:-----------------------------------------------------------------------:|
-| C++           | Cross-Platform | Library Set          | [Boost]     (http://www.boost.org/)                                     |
-| Multi-Lang    | Cross-Platform | Crypto               | [libsodium] (http://doc.libsodium.org/)                                 |
-| Multi-Lang    | Cross-Platform | GUI                  | [QT]        (http://www.qt.io/)                                         |
-| Multi-Lang    | Cross-Platform | Tools                | [libSDL]    (https://www.libsdl.org/)                                   |
-
 Data oriented design.
 ---------------------
 
@@ -29,3 +19,26 @@ Data oriented design.
 | [Video]          |[Data-Oriented Demo: SOA, composition]                   (https://www.youtube.com/watch?v=ZHqFrNyLlpA)                                                      |
 | [Video]          |[Data-Oriented Design ]                                  (https://www.youtube.com/watch?v=16ZF9XqkfRY)                                                      |
 
+Libraries
+---------
+
+| Language      |Platform        | Type                 | Library                                                        |
+|---------------|:--------------:|:--------------------:|:--------------------------------------------------------------:|
+| C/C++         | Cross-Platform | Script Integration   | [AngelScript]       (http://www.angelcode.com/angelscript/)    |
+| C/C++         | Cross-Platform | Script Integration   | [Lua]               (http://www.lua.org/)                      |
+| C++           | Cross-Platform | Audio Synthesis      | [Synthesis Toolkit] (https://ccrma.stanford.edu/software/stk/) |
+| C++           | Cross-Platform | Library Set          | [Boost]             (http://www.boost.org/)                    |
+| Multi-Lang    | Cross-Platform | Crypto               | [libsodium]         (http://doc.libsodium.org/)                |
+| Multi-Lang    | Cross-Platform | GUI                  | [QT]                (http://www.qt.io/)                        |
+| Multi-Lang    | Cross-Platform | Multi-Media          | [libSDL]            (https://www.libsdl.org/)                  |
+
+Script Languages
+----------------
+
+| Language                                              |
+|-------------------------------------------------------|
+| [AngelScript] (http://www.angelcode.com/angelscript/) |
+| [Lua]         (http://www.lua.org/)                   |
+| [Ruby]        (https://www.ruby-lang.org/en/)         |
+| Javascript                                            |
+ 
